@@ -18,7 +18,7 @@ Este projeto visa criar um ambiente acessível e inclusivo para atender às nece
 
 Atualmente, muitos laboratórios do IFCE são restritos a projetos específicos ou aulas práticas, limitando o acesso dos alunos fora desses horários. Essa realidade afeta diretamente estudantes que não possuem computador em casa, prejudicando seu desempenho acadêmico.
 
-A proposta do Laboratório de Acesso Livre é criar um espaço equipado com:
+A proposta do LADIN é criar um espaço equipado com:
 - Computadores modernos com os softwares essenciais.
 - Conectividade de alta qualidade para acesso à internet.
 - Funcionamento em horários ampliados, incluindo o período noturno, para atender às demandas de cursos vespertinos e noturnos.
