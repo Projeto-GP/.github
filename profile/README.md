@@ -3,14 +3,14 @@
  ## 📋 **Índice**
 - [📋 **Índice**](#-índice)
 - [📄 **Apresentação**](#-apresentação)
-- [�️‍♂️ **Descrição do Projeto**](#️️-descrição-do-projeto)
+- [📘 **Descrição do Projeto**](#-descrição-do-projeto)
 - [🔗 **Links do Projeto**](#-links-do-projeto)
 - [🤝 **Equipe**](#-equipe)
 
 ## 📄 **Apresentação**
 O Laboratório de Acesso Digital Inclusivo é uma iniciativa desenvolvida por alunos do curso de Ciência da Computação do IFCE - Campus Maracanaú, como parte das atividades da disciplina de Gestão de Projetos, ministrada pelo professor Henrique Leitão.
 
-## 🕵️‍♂️ **Descrição do Projeto**
+## 📘 **Descrição do Projeto**
 
 <img title="LADIN" src="ladin.png">
 
